@@ -27,3 +27,19 @@ function listaAmigos () {
         lista.appendChild(li);
     }
 }
+
+function sortearAmigo() {
+    if (amigos.length == 0) {
+        alert("Ingresa nombres para poder realizar el sorteo!!!");
+    } else {
+        let numero = parseInt(Math.floor((Math.random()*amigos.length)));
+        console.log(numero);
+        let amigoSorteado = amigos[numero];
+        let resultado = document.getElementById('resultado');
+        resultado.innerHTML = amigoSorteado;
+        amigos = [];
+        limpiarInput();
+        let lista = document.getElementById('listaAmigos');
+        lista.innerHTML = "";
+    }
+}
