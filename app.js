@@ -7,10 +7,23 @@ function agregarAmigo () {
     }else{
         amigos.push(nombreAmigo);
         limpiarInput();
+        listaAmigos();
         console.log(amigos)
     }
 }
 
 function limpiarInput () {
     document.querySelector("#amigo").value = "";
+}
+
+function listaAmigos () {
+    let lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+    
+    for (let i = 0; i < amigos.length; i++) {
+        let nombre = amigos[i];
+        let li = document.createElement("li");
+        li.innerHTML = nombre;
+        lista.appendChild(li);
+    }
 }
