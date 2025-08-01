@@ -5,3 +5,5 @@
   <p align="center">
   <img src="https://img.shields.io/badge/STATUS-TERMINADO%20-red">
   </p>
+
+  Este proyecto es un challenge del programa Oracle Next Education en alianza con Alura Latam, este programa recibe 
