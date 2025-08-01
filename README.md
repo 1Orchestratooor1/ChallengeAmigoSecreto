@@ -21,3 +21,6 @@
 - `Función para sortear los amigos`: Validar que haya amigos disponibles, generar un índice aleatorio utilizando la función Math.random(), obtener y muestra el nombre sorteado
 
 ![funcionalidad3](https://github.com/user-attachments/assets/4be2a837-33b8-43bd-95a9-7dd8de2497d2)
+
+## 📁 Acceso al proyecto
+**Puedes clonar mi proyecto mediante el siguente comando git clone **
