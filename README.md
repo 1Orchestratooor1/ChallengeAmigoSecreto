@@ -23,4 +23,13 @@
 ![funcionalidad3](https://github.com/user-attachments/assets/4be2a837-33b8-43bd-95a9-7dd8de2497d2)
 
 ## 📁 Acceso al proyecto
-**Puedes clonar mi proyecto mediante el siguente comando git clone **
+**Puedes clonar mi proyecto mediante el siguente comando git clone https://github.com/1Orchestratooor1/ChallengeAmigoSecreto.git**
+
+## ✔ Tecnologías utlizadas
+- HTML
+- CSS
+- JavaScript
+
+## Autor
+| [<img src="https://avatars.githubusercontent.com/u/82128234?v=4" width=115><br><sub>Jhon Alex Rodriguez</sub>](https://github.com/1Orchestratooor1)
+| :---: |
