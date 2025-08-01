@@ -23,7 +23,8 @@
 ![funcionalidad3](https://github.com/user-attachments/assets/4be2a837-33b8-43bd-95a9-7dd8de2497d2)
 
 ## 📁 Acceso al proyecto
-**Puedes clonar mi proyecto mediante el siguente comando git clone https://github.com/1Orchestratooor1/ChallengeAmigoSecreto.git**
+**Puedes clonar mi proyecto mediante el siguente comando**
+`git clone https://github.com/1Orchestratooor1/ChallengeAmigoSecreto.git`
 
 ## ✔ Tecnologías utlizadas
 - HTML
